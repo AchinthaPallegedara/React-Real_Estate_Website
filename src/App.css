@@ -1,6 +1,7 @@
 .App {
     position: relative;
     overflow-x: clip;
+    
 }
 
 .App>:nth-child(1) {
@@ -18,3 +19,4 @@
     border-radius: 100px;
 
 }
+
